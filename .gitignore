@@ -1,0 +1,55 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyo
+*.pyd
+*.pdb
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Dependency directories
+node_modules/
+bower_components/
+.venv/
+
+# Environment variables
+.env
+
+# Testing
+coverage/
+.cache/
+pytest_cache/
+nosetests.xml
+coverage.xml
+
+# Miscellaneous
+*.swp
+*.swo
+*.bak
+*.tmp
+*.temp
